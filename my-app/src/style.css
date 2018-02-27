@@ -1,13 +1,14 @@
-.ui.borderless.fitted.menu {
+.ui.topmenu.menu {
   box-shadow: none;
   border: none;
-  background-color: lightgray;
+  background-color: lightgrey;
 }
 
-.ui.borderless.menu {
+.ui.middlemenu.menu {
+  background-color: white;
   box-shadow: none;
   border: none;
-
+  justify-content: center;
 }
 
 .grey-background {
@@ -17,8 +18,3 @@
   color: white;
 }
 
-
-.ui.segment {
-  box-shadow: none;
-  border: none;
-}
